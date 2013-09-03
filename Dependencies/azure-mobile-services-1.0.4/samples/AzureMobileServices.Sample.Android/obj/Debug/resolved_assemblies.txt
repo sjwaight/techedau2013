@@ -1,0 +1,2 @@
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\lib\android\Microsoft.WindowsAzure.MobileServices.Android.dll

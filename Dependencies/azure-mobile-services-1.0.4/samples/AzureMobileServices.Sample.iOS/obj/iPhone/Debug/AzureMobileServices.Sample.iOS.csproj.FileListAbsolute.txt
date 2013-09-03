@@ -1,0 +1,6 @@
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\bin\iPhone\Debug\AzureSample.exe
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\bin\iPhone\Debug\AzureSample.pdb
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\bin\iPhone\Debug\Microsoft.WindowsAzure.MobileServices.iOS.dll
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\obj\iPhone\Debug\AzureMobileServices.Sample.iOS.csprojResolveAssemblyReference.cache
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\obj\iPhone\Debug\AzureSample.exe
+C:\temp\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.iOS\obj\iPhone\Debug\AzureSample.pdb

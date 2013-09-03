@@ -1,0 +1,17 @@
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\bin\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\bin\Debug\Tasky.Core.pdb
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.pdb
+C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.csprojResolveAssemblyReference.cache
+C:\Work\TechEd2013\TaskyPro\Tasky.Core\bin\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\TaskyPro\Tasky.Core\bin\Debug\Tasky.Core.pdb
+C:\Work\TechEd2013\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.csprojResolveAssemblyReference.cache
+C:\Work\TechEd2013\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\TaskyPro\Tasky.Core\obj\Debug\Tasky.Core.pdb
+C:\Work\TechEd2013\githubsource\Tasky.Core\bin\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\githubsource\Tasky.Core\bin\Debug\Tasky.Core.pdb
+C:\Work\TechEd2013\githubsource\Tasky.Core\obj\Debug\Tasky.Core.csprojResolveAssemblyReference.cache
+C:\Work\TechEd2013\githubsource\Tasky.Core\obj\Debug\Tasky.Core.dll
+C:\Work\TechEd2013\githubsource\Tasky.Core\obj\Debug\Tasky.Core.pdb

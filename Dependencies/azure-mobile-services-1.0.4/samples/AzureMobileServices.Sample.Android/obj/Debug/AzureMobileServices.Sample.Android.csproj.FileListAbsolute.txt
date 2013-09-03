@@ -1,0 +1,15 @@
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android.pdb
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android.dll.mdb
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android.apk
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\AzureMobileServices.Sample.Android-Signed.apk
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\bin\Debug\Microsoft.WindowsAzure.MobileServices.Android.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\AzureMobileServices.Sample.Android.dll
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\AzureMobileServices.Sample.Android.pdb
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\android\bin\AzureMobileServices.Sample.Android.apk
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\res\layout\todoitem.xml
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\res\layout\main.xml
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\res\values\strings.xml
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\res\drawable\icon.png
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\R.cs.flag
+C:\Work\TechEd2013\xamsamples\TaskyPro\Dependencies\azure-mobile-services-1.0.4\samples\AzureMobileServices.Sample.Android\obj\Debug\uploadflags.txt

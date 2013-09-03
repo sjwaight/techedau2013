@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Tasky Pro with Push</string>
+  <string name="assignee_prompt">Choose an assignee</string>
+  <string-array name="assignee_array">
+    <item>Larry</item>
+    <item>Steve</item>
+    <item>Tim</item>
+  </string-array>
+</resources>

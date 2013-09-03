@@ -1,0 +1,4 @@
+C:\Work\TechEd2013\githubsource\Tasky.Android\bin\Debug\Tasky.Android.dll
+C:\Work\TechEd2013\githubsource\Components\azure-mobile-services-1.0.4\lib\android\Microsoft.WindowsAzure.MobileServices.Android.dll
+C:\Work\TechEd2013\githubsource\packages\Newtonsoft.Json.5.0.6\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.dll
+C:\Work\TechEd2013\githubsource\Tasky.Core\bin\Debug\Tasky.Core.dll
