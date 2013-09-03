@@ -1,9 +1,7 @@
-TechEd Australia 2013 - 
+TechEd Australia 2013
 ============
 
-This repository contains the sourcecode for the demo application used during this session at TechEd Australia 2013:
-
-http://channel9.msdn.com/Events/TechEd/Australia/2013/AZR331
+This repository contains the sourcecode for the demo application used during this session at TechEd Australia 2013.
 
 In order to get this solution to completely run you will need:
 
