@@ -1,9 +1,0 @@
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Tasky.exe.config
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Tasky.exe
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Tasky.pdb
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Microsoft.WindowsAzure.MobileServices.iOS.dll
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\obj\iPhoneSimulator\Debug\Tasky.iOS.csprojResolveAssemblyReference.cache
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\obj\iPhoneSimulator\Debug\Tasky.exe
-C:\Work\TechEd2013\xamsamples\TaskyPro\Tasky.iOS\obj\iPhoneSimulator\Debug\Tasky.pdb
